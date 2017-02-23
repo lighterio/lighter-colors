@@ -1,5 +1,5 @@
 var colors = require('../lighter-colors')
-var is = global.is || require('exam/lib/is')
+var is = global.is || require('exam-is')
 
 describe('colors', function () {
 

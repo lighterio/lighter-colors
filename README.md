@@ -3,7 +3,7 @@
 [![Version](https://img.shields.io/npm/v/lighter-colors.svg)](//www.npmjs.com/package/lighter-colors)
 [![Downloads](https://img.shields.io/npm/dm/lighter-colors.svg)](//www.npmjs.com/package/lighter-colors)
 [![Build](https://img.shields.io/travis/lighterio/lighter-colors.svg)](//travis-ci.org/lighterio/lighter-colors)
-[![Coverage](https://img.shields.io/coveralls/lighterio/lighter-colors/master.svg)](//coveralls.io/r/lighterio/lighter-colors)
+[![Coverage](https://img.shields.io/codecov/c/github/lighterio/lighter-colors/master.svg)](//codecov.io/gh/lighterio/lighter-colors)
 [![Style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](//www.npmjs.com/package/standard)
 
 The `lighter-colors` module is a lightweight terminal color utility.
@@ -24,7 +24,7 @@ For now, please see the [source](https://github.com/lighterio/lighter-colors/blo
 
 ## Examples
 
-For now, please see the [tests](https://github.com/lighterio/lighter-colors/blob/master/test/type.js).
+For now, please see the [tests](https://github.com/lighterio/lighter-colors/blob/master/test).
 
 
 ## More on lighter-colors...

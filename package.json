@@ -4,7 +4,7 @@
   "description": "A lightweight JavaScript terminal color utility.",
   "dependencies": {},
   "devDependencies": {
-    "exam": ">=0.3.8"
+    "exam": "^1.4.5"
   },
   "bundledDependencies": [],
   "keywords": [
@@ -25,7 +25,6 @@
     "test": "./node_modules/exam/exam.js",
     "cover": "./node_modules/exam/exam-cover.js",
     "report": "open coverage/lcov-report/index.html",
-    "coveralls": "./node_modules/exam/exam-coveralls.js",
     "bench": "./node_modules/exam/exam.js test/bench"
   },
   "repository": "https://github.com/lighterio/lighter-colors.git",
@@ -35,5 +34,5 @@
   "contributors": [
     "Sam Eubank <sameubank@gmail.com>"
   ],
-  "license": "ISC"
+  "license": "MIT"
 }

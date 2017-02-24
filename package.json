@@ -1,13 +1,18 @@
 {
   "name": "lighter-colors",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A lightweight JavaScript terminal color utility.",
   "dependencies": {},
   "devDependencies": {
-    "exam": "^1.4.5"
+    "colors": "^1.1.2",
+    "exam": "^2.0.0"
   },
-  "bundledDependencies": [],
   "keywords": [
+    "colors",
+    "color",
+    "terminal",
+    "console",
+    "colorful",
     "utility",
     "lighter",
     "fast",
@@ -15,7 +20,26 @@
     "minimal",
     "benchmark",
     "speed",
-    "ops"
+    "ops",
+    "plain",
+    "reset",
+    "base",
+    "bold",
+    "normal",
+    "italic",
+    "underline",
+    "inverse",
+    "hidden",
+    "strike",
+    "black",
+    "red",
+    "green",
+    "yellow",
+    "blue",
+    "magenta",
+    "cyan",
+    "white",
+    "gray"
   ],
   "main": "lighter-colors.js",
   "engines": {

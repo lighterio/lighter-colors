@@ -31,4 +31,9 @@ declare global {
    }
 }
 
+declare module 'lighter-colors' {
+   const enable: () => void;
+   const disable: () => void;
+}
+
 export { };

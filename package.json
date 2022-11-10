@@ -2,6 +2,7 @@
   "name": "lighter-colors",
   "version": "1.0.0",
   "description": "A lightweight JavaScript terminal color utility.",
+  "types": "types.d.ts",
   "dependencies": {},
   "devDependencies": {
     "colors": "^1.1.2",

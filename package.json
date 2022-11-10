@@ -1,7 +1,8 @@
 {
   "name": "lighter-colors",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A lightweight JavaScript terminal color utility.",
+  "types": "types.d.ts",
   "dependencies": {},
   "devDependencies": {
     "colors": "^1.1.2",
